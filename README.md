@@ -2,7 +2,7 @@
 
 <div align="left">
   <img width="12" />
-  <img src="https://github.com/abdellahakhal/SVG/blob/main/Python.svg " height="60" alt="python logo"  />
+  <img src="https://github.com/abdellahakhal/svg/blob/main/python.svg " height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://github.com/abdellahakhal/svg/blob/main/javascript.svg" height="60" alt="javascript logo"  />
   <img width="12" />
