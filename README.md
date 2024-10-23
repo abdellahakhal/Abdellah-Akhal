@@ -12,7 +12,7 @@
   <img width="12" />
   <img src="https://github.com/abdellahakhal/svg/blob/main/css.svg" height="60" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://github.com/abdellahakhal/svg/blob/main/react.svg" height="60" alt="react logo"  />
+  <img src="https://github.com/abdellahakhal/svg/blob/main/python.svg" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://github.com/abdellahakhal/svg/blob/main/boostrap.svg" height="60" alt="bootstrap logo"  />
 </div>
